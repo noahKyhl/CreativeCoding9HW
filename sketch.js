@@ -25,5 +25,6 @@ function setup() {
     rect(195, 100, 10, 20); //nose
     
     textSize(20);
-    text('Hello there...friend, my name is Noah Kyhl', 10, 30);
+    text('Self Portrait', 150, 30);
+    text('"Hello there...friend!" Signed, Noah Kyhl', 10, 375);
   }
